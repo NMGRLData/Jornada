@@ -1,8 +1,8 @@
 {
-    "aliquot": 1, 
+    "aliquot": 2, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "24.90 mg", 
+    "comment": "38.47 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -32,7 +32,7 @@
     }, 
     "extraction": "", 
     "identifier": "63874", 
-    "increment": null, 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "D", 
     "irradiation_position": 6, 
@@ -76,7 +76,7 @@
     "repository_identifier": "Jornada", 
     "sample": "NMJV-07", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-06T13:13:02", 
+    "timestamp": "2015-11-29T22:54:50", 
     "username": "root", 
-    "uuid": "72be0921-c429-464b-bef3-f75e416802b5"
+    "uuid": "ec07fbdc-bafc-440c-8269-3eb4d613178f"
 }

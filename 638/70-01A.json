@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "78.16  mg", 
+    "comment": "76.93 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63868", 
-    "increment": null, 
+    "identifier": "63870", 
+    "increment": 0, 
     "irradiation": "NM-278", 
-    "irradiation_level": "C", 
-    "irradiation_position": 6, 
+    "irradiation_level": "D", 
+    "irradiation_position": 2, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "Jornada", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Jornada", 
-    "sample": "DL-J15-7", 
+    "sample": "NMJV-02", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-04T16:40:29", 
+    "timestamp": "2015-11-05T21:39:10", 
     "username": "root", 
-    "uuid": "76380e4d-5336-41dc-b0c1-cbf86a6145a4"
+    "uuid": "1c14e5a0-21df-43e8-a820-278b7c1c77ba"
 }
